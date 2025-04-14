@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <!-- Entrantes -->
+  <plato tipoPlato="Entrante">
+      <nombrePlato>Samosas de Verduras</nombrePlato>
+      <precio>€5</precio>
+      <descripcion>Empanadillas crujientes rellenas de patata, guisantes y especias.</descripcion>
+      <calorias>200 kcal</calorias>
+      <caracteristicas>
+          <categoria>vegetariano</categoria>
+          <categoria>frito</categoria>
+      </caracteristicas>
+      <imagen>../img/Samosas_verduras.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Entrante">
+      <nombrePlato>Pakoras de Pollo</nombrePlato>
+      <precio>€6</precio>
+      <descripcion>Trozos de pollo rebozados en harina de garbanzo con especias.</descripcion>
+      <calorias>250 kcal</calorias>
+      <caracteristicas>
+          <categoria>carne</categoria>
+          <categoria>frito</categoria>
+      </caracteristicas>
+      <imagen>../img/pankora.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Entrante">
+      <nombrePlato>Hummus con Pan de Pita</nombrePlato>
+      <precio>€5</precio>
+      <descripcion>Crema de garbanzos con un toque de limón y aceite de oliva, acompañado de pan de pita.</descripcion>
+      <calorias>180 kcal</calorias>
+      <caracteristicas>
+          <categoria>vegetariano</categoria>
+          <categoria>legumbres</categoria>
+      </caracteristicas>
+      <imagen>../img/hummus_con_pan_pita.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Entrante">
+      <nombrePlato>Ensalada de Yogur y Pepino</nombrePlato>
+      <precio>€4</precio>
+      <descripcion>Fresca ensalada de yogur con pepino rallado y un toque de menta.</descripcion>
+      <calorias>120 kcal</calorias>
+      <caracteristicas>
+          <categoria>vegetariano</categoria>
+          <categoria>ensalada</categoria>
+      </caracteristicas>
+      <imagen>../img/ensalada-de-pepino.webp</imagen>
+  </plato>
+
+  <!-- Primer Plato -->
+  <plato tipoPlato="Primer Plato">
+      <nombrePlato>Biryani de Pollo</nombrePlato>
+      <precio>€12</precio>
+      <descripcion>Arroz especiado con pollo, hierbas frescas y frutos secos.</descripcion>
+      <calorias>450 kcal</calorias>
+      <caracteristicas>
+          <categoria>arroz</categoria>
+          <categoria>carne</categoria>
+          <categoria>picante</categoria>
+      </caracteristicas>
+      <imagen>../img/biryani_pollo.png</imagen>
+  </plato>
+  <plato tipoPlato="Primer Plato">
+      <nombrePlato>Durum Mixto</nombrePlato>
+      <precio>€8</precio>
+      <descripcion>Pan plano relleno de carne de ternera y pollo, acompañado de lechuga y salsa especial.</descripcion>
+      <calorias>400 kcal</calorias>
+      <caracteristicas>
+          <categoria>carne</categoria>
+          <categoria>pan</categoria>
+      </caracteristicas>
+      <imagen>../img/durum_mixto.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Primer Plato">
+      <nombrePlato>Pita de Pollo</nombrePlato>
+      <precio>€7</precio>
+      <descripcion>Pan pita relleno de pollo especiado, tomate y salsa de yogur.</descripcion>
+      <calorias>350 kcal</calorias>
+      <caracteristicas>
+          <categoria>carne</categoria>
+          <categoria>pan</categoria>
+      </caracteristicas>
+      <imagen>../img/pita_pollo.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Primer Plato">
+      <nombrePlato>Karahi de Gambas</nombrePlato>
+      <precio>€14</precio>
+      <descripcion>Gambas cocinadas en una salsa de tomate y especias tradicionales.</descripcion>
+      <calorias>350 kcal</calorias>
+      <caracteristicas>
+          <categoria>marisco</categoria>
+          <categoria>picante</categoria>
+      </caracteristicas>
+      <imagen>../img/karahi_gambas.jpg</imagen>
+  </plato>
+
+  <!-- Segundo Plato -->
+  <plato tipoPlato="Segundo Plato">
+      <nombrePlato>Pollo Tikka Masala</nombrePlato>
+      <precio>€15</precio>
+      <descripcion>Pollo marinado en especias y yogur, cocinado en una cremosa salsa de tomate.</descripcion>
+      <calorias>500 kcal</calorias>
+      <caracteristicas>
+          <categoria>carne</categoria>
+          <categoria>picante</categoria>
+      </caracteristicas>
+      <imagen>../img/pollo-tikka-masala-casero.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Segundo Plato">
+      <nombrePlato>Cordero Vindaloo</nombrePlato>
+      <precio>€16</precio>
+      <descripcion>Cordero cocinado en una salsa picante con patatas y especias.</descripcion>
+      <calorias>550 kcal</calorias>
+      <caracteristicas>
+          <categoria>carne</categoria>
+          <categoria>picante</categoria>
+      </caracteristicas>
+      <imagen>../img/cordero-vindaloo.avif</imagen>
+  </plato>
+  <plato tipoPlato="Segundo Plato">
+      <nombrePlato>Costillas de Cordero</nombrePlato>
+      <precio>€18</precio>
+      <descripcion>Costillas de cordero marinadas en especias y asadas a la parrilla.</descripcion>
+      <calorias>480 kcal</calorias>
+      <caracteristicas>
+          <categoria>carne</categoria>
+          <categoria>parrilla</categoria>
+      </caracteristicas>
+      <imagen>../img/costillas_cordero.jpg</imagen>
+  </plato>
+
+  <!-- Postres -->
+  <plato tipoPlato="Postre">
+      <nombrePlato>Gulab Jamun</nombrePlato>
+      <precio>€5</precio>
+      <descripcion>Bolitas de leche fritas en almíbar aromatizado con cardamomo.</descripcion>
+      <calorias>300 kcal</calorias>
+      <caracteristicas>
+          <categoria>dulce</categoria>
+          <categoria>frito</categoria>
+      </caracteristicas>
+      <imagen>../img/gulab-jamun.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Postre">
+      <nombrePlato>Kulfi de Pistacho</nombrePlato>
+      <precio>€4</precio>
+      <descripcion>Helado tradicional de pistacho con un toque de cardamomo.</descripcion>
+      <calorias>250 kcal</calorias>
+      <caracteristicas>
+          <categoria>helado</categoria>
+          <categoria>frutos secos</categoria>
+      </caracteristicas>
+      <imagen>../img/kulfi_pistacho.avif</imagen>
+  </plato>
+  <plato tipoPlato="Postre">
+      <nombrePlato>Lassi de Mango</nombrePlato>
+      <precio>€3</precio>
+      <descripcion>Bebida refrescante de yogur con mango fresco y un toque de cardamomo.</descripcion>
+      <calorias>200 kcal</calorias>
+      <caracteristicas>
+          <categoria>bebida</categoria>
+          <categoria>fruta</categoria>
+      </caracteristicas>
+      <imagen>../img/mango-lassi.jpg</imagen>
+  </plato>
+</menu>
