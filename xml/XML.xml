@@ -45,6 +45,17 @@
       </caracteristicas>
       <imagen>../img/ensalada-de-pepino.webp</imagen>
   </plato>
+  <plato tipoPlato="Entrante">
+      <nombrePlato>Bruschetta de Tomate</nombrePlato>
+      <precio>€5</precio>
+      <descripcion>Pan tostado con tomate fresco, albahaca y aceite de oliva.</descripcion>
+      <calorias>150 kcal</calorias>
+      <caracteristicas>
+          <categoria>vegetariano</categoria>
+          <categoria>pan</categoria>
+      </caracteristicas>
+      <imagen>../img/bruschetta.jpg</imagen>
+  </plato>
 
   <!-- Primer Plato -->
   <plato tipoPlato="Primer Plato">
@@ -92,6 +103,17 @@
       </caracteristicas>
       <imagen>../img/karahi_gambas.jpg</imagen>
   </plato>
+  <plato tipoPlato="Primer Plato">
+      <nombrePlato>Raviolis de Espinaca</nombrePlato>
+      <precio>€10</precio>
+      <descripcion>Pasta rellena de espinaca y ricotta, servida con salsa de tomate.</descripcion>
+      <calorias>300 kcal</calorias>
+      <caracteristicas>
+          <categoria>vegetariano</categoria>
+          <categoria>pasta</categoria>
+      </caracteristicas>
+      <imagen>../img/raviolis_espinaca.jpg</imagen>
+  </plato>
 
   <!-- Segundo Plato -->
   <plato tipoPlato="Segundo Plato">
@@ -127,6 +149,28 @@
       </caracteristicas>
       <imagen>../img/costillas_cordero.jpg</imagen>
   </plato>
+  <plato tipoPlato="Segundo Plato">
+      <nombrePlato>Filete de Salmón</nombrePlato>
+      <precio>€20</precio>
+      <descripcion>Salmón a la parrilla con hierbas frescas y limón.</descripcion>
+      <calorias>400 kcal</calorias>
+      <caracteristicas>
+          <categoria>pescado</categoria>
+          <categoria>parrilla</categoria>
+      </caracteristicas>
+      <imagen>../img/salmon.webp</imagen>
+  </plato>
+  <plato tipoPlato="Segundo Plato">
+      <nombrePlato>Lasagna de Carne</nombrePlato>
+      <precio>€13</precio>
+      <descripcion>Capas de pasta, carne, salsa de tomate y queso gratinado.</descripcion>
+      <calorias>600 kcal</calorias>
+      <caracteristicas>
+          <categoria>carne</categoria>
+          <categoria>pasta</categoria>
+      </caracteristicas>
+      <imagen>../img/lasagna.jpg</imagen>
+  </plato>
 
   <!-- Postres -->
   <plato tipoPlato="Postre">
@@ -161,5 +205,27 @@
           <categoria>fruta</categoria>
       </caracteristicas>
       <imagen>../img/mango-lassi.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Postre">
+      <nombrePlato>Tarta de Queso</nombrePlato>
+      <precio>€6</precio>
+      <descripcion>Tarta cremosa de queso con base de galleta.</descripcion>
+      <calorias>350 kcal</calorias>
+      <caracteristicas>
+          <categoria>dulce</categoria>
+          <categoria>horneado</categoria>
+      </caracteristicas>
+      <imagen>../img/tarta_queso.webp</imagen>
+  </plato>
+  <plato tipoPlato="Postre">
+      <nombrePlato>Brownie de Chocolate</nombrePlato>
+      <precio>€5</precio>
+      <descripcion>Bizcocho de chocolate con nueces, servido con helado.</descripcion>
+      <calorias>400 kcal</calorias>
+      <caracteristicas>
+          <categoria>dulce</categoria>
+          <categoria>chocolate</categoria>
+      </caracteristicas>
+      <imagen>../img/brownie.jpg</imagen>
   </plato>
 </menu>
